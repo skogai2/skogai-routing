@@ -1,7 +1,7 @@
 ---
 title: welcome-away-from-home
 type: reference
-permalink: dot-skogai/skills/skogai-routing/references/skogfences
+permalink: skogai-routing/references/skogfences
 ---
 
 [@skogix.concept:$skogfences]

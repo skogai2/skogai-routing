@@ -1,7 +1,7 @@
 ---
 title: dot-skogai
 type: reference
-permalink: dot-skogai/skills/skogai-routing/references/dot-skogai
+permalink: skogai-routing/references/dot-skogai
 ---
 
 <name_explanation>

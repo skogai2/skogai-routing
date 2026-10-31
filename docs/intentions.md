@@ -1,3 +1,9 @@
+---
+title: intentions
+type: reference
+permalink: skogai-routing/intentions
+---
+
 # What skogai-routing is for
 
 This is my reading of the intentions, ideas and open questions behind the project. It is a starting point to correct, not a finished position.
